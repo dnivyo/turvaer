@@ -1,0 +1,8 @@
+.turvaer-exampl h1 {
+  background-color: purple;
+}
+
+html, body { height: 100%; margin: 0; padding: 0; }
+
+#map { width: 1280px; height: 640px;}
+
